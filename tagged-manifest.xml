@@ -3,6 +3,7 @@
   <remote fetch="https://github.com/NXPNFCProject/" name="NXP"/>
   <remote fetch="https://android.googlesource.com/" name="aosp" review="https://android-review.googlesource.com/"/>
   <remote fetch="https://github.com/mer-hybris/" name="hybris"/>
+  <remote fetch="https://github.com/g7/" name="g7-hybris-patches" revision="hybris-sony-aosp-8.1.0_r52_20190206-loire"/>
   <remote fetch="https://github.com/mer-hybris/" name="hybris-patches" revision="hybris-sony-aosp-8.1.0_r52_20190206"/>
   <remote fetch="https://github.com/sonyxperiadev/" name="sony"/>
   <remote fetch="https://github.com/mer-hybris/" name="sony-patches" revision="droid-src-sony-aosp-8.1.0_r52_20190206"/>
